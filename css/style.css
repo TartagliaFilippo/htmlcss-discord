@@ -176,6 +176,15 @@ section.bg-gray {
   background-repeat: no-repeat;
 }
 
+.small-col.seconda h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.small-col.seconda p {
+  line-height: 25px;
+}
+
 /* # FOOTER */
 
 .bg-darkgray {
