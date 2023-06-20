@@ -363,14 +363,14 @@ section.bg-gray {
   min-height: 50px;
 } */
 
-.debug .bg-aquamarine {
+/* .debug .bg-aquamarine {
   background-color: var(--aquamarine);
   min-height: 50px;
-}
+} */
 
-.debug .bg-lightpink {
+/* .debug .bg-lightpink {
   background-color: var(--lightpink);
-}
+} */
 
 .debug .tall {
   min-height: 350px;
