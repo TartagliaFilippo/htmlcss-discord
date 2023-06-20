@@ -104,8 +104,14 @@ nav div:last-child {
   text-align: center;
 }
 
+.jumbotron > .container > h1 {
+  margin-bottom: 25px;
+}
+
 .jumbotron > .container > p {
   font-size: 0.9rem;
+  line-height: 25px;
+  margin-bottom: 20px;
 }
 
 .buttons * {
