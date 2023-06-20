@@ -202,6 +202,11 @@ section.bg-gray {
   line-height: 25px;
 }
 
+/* FOURTH SECTION */
+.cristiano * {
+  text-align: center;
+}
+
 /* # FOOTER */
 
 .bg-darkgray {
@@ -273,10 +278,10 @@ section.bg-gray {
   min-height: 50px;
 } */
 
-.debug .bg-green {
+/* .debug .bg-green {
   background-color: var(--green);
   min-height: 50px;
-}
+} */
 
 .debug .bg-salmon {
   background-color: var(--salmon);
