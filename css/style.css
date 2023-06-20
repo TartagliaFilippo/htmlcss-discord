@@ -220,6 +220,19 @@ section.bg-gray {
   line-height: 25px;
 }
 
+.cristiano h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.cristiano div {
+  color: var(--white);
+  background-color: #8ea1e1;
+  font-size: 20px;
+  padding: 2px 6px;
+  border-radius: 24px;
+}
+
 /* # FOOTER */
 
 .bg-darkgray {
