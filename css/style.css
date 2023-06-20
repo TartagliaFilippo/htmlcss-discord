@@ -168,6 +168,14 @@ section.bg-gray {
   line-height: 25px;
 }
 
+/* SECOND SECTION */
+
+.container > .large-col.seconda {
+  background-image: url(../img/item2.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 /* # FOOTER */
 
 .bg-darkgray {
