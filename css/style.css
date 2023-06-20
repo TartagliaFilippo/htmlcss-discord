@@ -151,6 +151,14 @@ section.bg-gray {
   width: 40%;
 }
 
+/* FIRST SECTION */
+
+.container > .large-col.prima {
+  background-image: url(../img/item1.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 /* # FOOTER */
 
 .bg-darkgray {
@@ -212,7 +220,7 @@ section.bg-gray {
   min-height: 50px;
 } */
 
-.debug .bg-azure {
+/* .debug .bg-azure {
   background-color: var(--azure);
   min-height: 50px;
 }
@@ -220,7 +228,7 @@ section.bg-gray {
 .debug .bg-pink {
   background-color: var(--pink);
   min-height: 50px;
-}
+} */
 
 .debug .bg-green {
   background-color: var(--green);
