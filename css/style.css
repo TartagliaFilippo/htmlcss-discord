@@ -309,15 +309,15 @@ section.bg-gray {
   min-height: 50px;
 } */
 
-.debug .bg-salmon {
+/* .debug .bg-salmon {
   background-color: var(--salmon);
   min-height: 50px;
-}
+} */
 
-.debug .bg-teal {
+/* .debug .bg-teal {
   background-color: var(--teal);
   min-height: 50px;
-}
+} */
 
 .debug .bg-aquamarine {
   background-color: var(--aquamarine);
