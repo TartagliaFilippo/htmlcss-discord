@@ -235,9 +235,9 @@ section.bg-gray {
 
 /* # FOOTER */
 
-/* .bg-darkgray {
+.bg-darkgray {
   background-color: var(--darkgray);
-} */
+}
 
 .footer-top {
   border: 1px solid var(--gray);
@@ -266,6 +266,8 @@ section.bg-gray {
 
 /* FOOTER TOP */
 
+/* COL-30 */
+
 .col-30 h2 {
   color: #7289da;
   font-size: 40px;
@@ -284,6 +286,24 @@ section.bg-gray {
 .social {
   font-size: 25px;
   margin-right: 20px;
+}
+
+/* COL-25 */
+
+.col-25 h3 {
+  color: #7289da;
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+.col-25 ul {
+  list-style: none;
+}
+
+.col-25 ul li {
+  font-size: 20px;
+  color: var(--white);
+  margin-bottom: 10px;
 }
 
 /* ! DEBUG */
