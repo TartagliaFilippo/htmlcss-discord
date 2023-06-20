@@ -144,11 +144,11 @@ section.bg-gray {
 }
 
 .large-col {
-  width: 60%;
+  width: 70%;
 }
 
 .small-col {
-  width: 40%;
+  width: 30%;
 }
 
 /* FIRST SECTION */
@@ -157,6 +157,15 @@ section.bg-gray {
   background-image: url(../img/item1.svg);
   background-size: contain;
   background-repeat: no-repeat;
+}
+
+.small-col.prima h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.small-col.prima p {
+  line-height: 25px;
 }
 
 /* # FOOTER */
