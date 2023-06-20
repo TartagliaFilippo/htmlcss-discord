@@ -193,6 +193,15 @@ section.bg-gray {
   background-repeat: no-repeat;
 }
 
+.small-col.terza h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.small-col.terza p {
+  line-height: 25px;
+}
+
 /* # FOOTER */
 
 .bg-darkgray {
