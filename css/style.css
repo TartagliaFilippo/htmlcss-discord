@@ -235,9 +235,9 @@ section.bg-gray {
 
 /* # FOOTER */
 
-.bg-darkgray {
+/* .bg-darkgray {
   background-color: var(--darkgray);
-}
+} */
 
 .footer-top {
   border: 1px solid var(--gray);
@@ -263,6 +263,8 @@ section.bg-gray {
 .col-25 {
   width: 25%;
 }
+
+/* FOOTER TOP */
 
 /* ! DEBUG */
 
