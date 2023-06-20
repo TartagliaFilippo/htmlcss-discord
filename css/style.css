@@ -59,6 +59,13 @@ body {
 
 header {
   padding: 1.5rem 0;
+  background-color: #3161e0;
+}
+
+nav div:last-child {
+  background-color: white;
+  padding: 4px 10px;
+  border-radius: 24px;
 }
 
 /* # JUMBOTRON */
@@ -131,23 +138,23 @@ section.bg-gray {
 
 /* ! DEBUG */
 
-.debug .bordered {
+/* .debug .bordered {
   border: 2px dashed var(--black);
-}
+} */
 
-.debug .bordered-white {
+/* .debug .bordered-white {
   border: 2px dashed var(--white);
-}
+} */
 
-.debug .bg-cyan {
+/* .debug .bg-cyan {
   background-color: var(--cyan);
   min-height: 50px;
-}
-
+} */
+/* 
 .debug .bg-golden {
   background-color: var(--golden);
   min-height: 50px;
-}
+} */
 
 .debug .bg-blue {
   background-color: var(--blue);
