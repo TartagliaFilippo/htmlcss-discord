@@ -165,6 +165,7 @@ section.bg-gray {
 }
 
 .small-col.prima p {
+  font-size: 20px;
   line-height: 25px;
 }
 
@@ -182,6 +183,7 @@ section.bg-gray {
 }
 
 .small-col.seconda p {
+  font-size: 20px;
   line-height: 25px;
 }
 
@@ -199,12 +201,23 @@ section.bg-gray {
 }
 
 .small-col.terza p {
+  font-size: 20px;
   line-height: 25px;
 }
 
 /* FOURTH SECTION */
 .cristiano * {
   text-align: center;
+}
+
+.cristiano h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.cristiano p {
+  font-size: 20px;
+  line-height: 25px;
 }
 
 /* # FOOTER */
