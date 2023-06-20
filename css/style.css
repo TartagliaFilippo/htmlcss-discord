@@ -78,6 +78,7 @@ nav ul {
 }
 
 nav li {
+  font-size: 20px;
   padding: 4px 20px;
 }
 
@@ -107,11 +108,12 @@ nav div:last-child {
 }
 
 .jumbotron > .container > h1 {
+  font-size: 40px;
   margin-bottom: 25px;
 }
 
 .jumbotron > .container > p {
-  font-size: 0.9rem;
+  font-size: 20px;
   line-height: 25px;
   margin-bottom: 20px;
 }
