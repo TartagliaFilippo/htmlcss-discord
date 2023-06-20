@@ -185,6 +185,14 @@ section.bg-gray {
   line-height: 25px;
 }
 
+/* THIRD SECTION */
+
+.container > .large-col.terza {
+  background-image: url(../img/item3.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 /* # FOOTER */
 
 .bg-darkgray {
