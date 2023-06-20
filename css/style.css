@@ -266,6 +266,25 @@ section.bg-gray {
 
 /* FOOTER TOP */
 
+.col-30 h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.col-30 p {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.bandiera {
+  height: 20px;
+}
+
+.social {
+  font-size: 25px;
+  margin-right: 20px;
+}
+
 /* ! DEBUG */
 
 /* .debug .bordered {
