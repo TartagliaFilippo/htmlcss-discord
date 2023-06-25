@@ -168,6 +168,7 @@ section.bg-gray {
   background-image: url(../img/item1.svg);
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: left;
 }
 
 .small-col.prima h1 {
@@ -186,6 +187,7 @@ section.bg-gray {
   background-image: url(../img/item2.svg);
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .small-col.seconda h1 {
@@ -204,6 +206,7 @@ section.bg-gray {
   background-image: url(../img/item3.svg);
   background-size: contain;
   background-repeat: no-repeat;
+  background-position: center;
 }
 
 .small-col.terza h1 {
