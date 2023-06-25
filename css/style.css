@@ -24,7 +24,7 @@
 }
 
 body {
-  font-family: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Whitney", sans-serif;
 }
 
 /* # UTILS */
@@ -64,12 +64,6 @@ body {
 header {
   padding: 1.5rem 0;
   background-color: #3161e0;
-}
-
-nav div:first-child {
-  font-family: "Revenant", sans-serif;
-  font-size: 25px;
-  color: var(--white);
 }
 
 nav ul {
@@ -244,7 +238,7 @@ section.bg-gray {
 }
 
 .footer-top {
-  border: 1px solid var(--gray);
+  border-bottom: 1px solid #404b6d;
 }
 
 .footer-top,
@@ -316,11 +310,6 @@ section.bg-gray {
 
 .footer-bottom * {
   color: var(--white);
-}
-
-.discord {
-  font-family: "Revenant", sans-serif;
-  font-size: 25px;
 }
 
 .registrati {
