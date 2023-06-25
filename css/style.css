@@ -86,6 +86,7 @@ nav div:last-child {
 
 .jumbotron {
   max-width: 100%;
+  min-height: 530px;
   background-image: url(../img/jumbo.png);
   background-size: cover;
   padding: 2rem 0;
@@ -112,19 +113,31 @@ nav div:last-child {
   margin-bottom: 20px;
 }
 
+.buttons {
+  margin-top: 50px;
+}
+
 .buttons * {
+  display: inline-block;
+  text-align: center;
   font-size: 20px;
-  padding: 2px 6px;
+  padding: 4px 15px;
   border-radius: 24px;
+}
+
+.buttons i {
+  padding: 0;
 }
 
 .mac {
   color: var(--black);
   background-color: var(--white);
+  margin: 0 10px;
 }
 
 .buttons div:last-child {
   background-color: var(--darkgray);
+  margin: 0 10px;
 }
 
 /* # SECTIONS */
