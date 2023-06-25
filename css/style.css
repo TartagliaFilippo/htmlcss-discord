@@ -220,7 +220,7 @@ section.bg-gray {
 }
 
 /* FOURTH SECTION */
-.cristiano * {
+.cristiano {
   text-align: center;
 }
 
@@ -240,6 +240,7 @@ section.bg-gray {
 }
 
 .cristiano div {
+  display: inline-block;
   color: var(--white);
   background-color: #8ea1e1;
   font-size: 20px;
