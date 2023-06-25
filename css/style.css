@@ -235,8 +235,12 @@ section.bg-gray {
 }
 
 .cristiano h2 {
-  font-size: 30px;
+  font-size: 27px;
   margin-bottom: 20px;
+  background-image: url(../img/stars.svg);
+  background-position: top;
+  background-repeat: no-repeat;
+  padding-top: 30px;
 }
 
 .cristiano div {
@@ -244,8 +248,18 @@ section.bg-gray {
   color: var(--white);
   background-color: #8ea1e1;
   font-size: 20px;
-  padding: 2px 6px;
+  padding: 4px 20px;
   border-radius: 24px;
+}
+
+/* WAVES */
+.wave-1hkxOo {
+  display: block;
+}
+
+.wave-1hkxOo-rev {
+  display: block;
+  transform: rotate(180deg);
 }
 
 /* # FOOTER */
